@@ -1,0 +1,24 @@
+hola1
+12345  float
+Variable1
+12+25-35*95/2=1239
+do while{
+if {funciona el codigo}
+//hola buenos dias//
+//como estas?//
+//comentarios correctamente identificados//
+Este archivo fue correctamente leido por FLEX, terminado
+&&
+!
+<=
+>=
+==
+!=
+<
+>
+else {no funciono el codigo}
+}
+?
+.
+@
+fe
