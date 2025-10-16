@@ -1,0 +1,18 @@
+hola1
+12345
+Variable1
+MENSAJE ESCRITO EN MINUSCULAS 
+MAYUSCULAS
+for
+int
+main
+while
+if
+else
+float
+?
+.
+@
+fe
+//comentario escrito para prueba
+Buenos dias, buenas tardes y buenas noches.
